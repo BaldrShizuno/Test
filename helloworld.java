@@ -1,3 +1,5 @@
 public class helloworld{
- 	publidcjkdsahfk asdjb hfgjkdsabn fkjhmsdaj gj 
+ 	public static void main(String[] args){
+		System.out.println("helloNM");
+	}
 }
